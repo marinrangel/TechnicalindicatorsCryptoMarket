@@ -1,0 +1,18 @@
+{
+  "name": "cryptoscreenerback",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "CodeFactory",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-binance-api": "^0.9.1",
+    "technicalindicators": "^2.0.8",
+    "redis": "^2.8.0",
+    "ws": "^7.0.1"
+  }
+}
